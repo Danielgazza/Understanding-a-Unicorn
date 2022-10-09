@@ -18,5 +18,4 @@ Tools and Functions used in this project;
 
 According to the results of the unicorn data set analysis, Zapier has the highest return on investment at 399,900%, and it will take a company an average of three years to become a unicorn. The United States (USA) has produced more unicorns than any other country, and San Francisco is an industry center. Finally, Accel is the top investor, having made the most investments in startups.
 
-
-![How long it takes to become a unicorn](https://user-images.githubusercontent.com/103642582/193412639-3d594c87-13d6-4e3c-9974-75e67304115b.png)
+![How long it takes to become a unicorn](https://user-images.githubusercontent.com/103642582/194757643-7d802024-70ea-4455-97ab-c8919367830d.png)
