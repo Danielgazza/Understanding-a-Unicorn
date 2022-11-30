@@ -7,6 +7,18 @@ This repository contains the data and R markdown (documentation) used in the ana
 
 This project is about unicorn companies, which are privately held startup companies worth $1 billion. Using records from 1919 to 2021 to identify patterns and trends associated with unicorns. Polarity Ventures can thus modify and replicate her investment process.
 
+## Questions 
+
+Questions this project will be answering
+
+• Which Unicorn Companies have had the biggest return on investments?
+
+• How long does it usually take for a company to become a unicorn? Has it always been this way?
+
+• Which countries have the most unicorns? Are there any cities that appear to be industry hubs?
+
+• Which investors have funded the most unicorns?
+
 
 ## Tools 
 
